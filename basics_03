@@ -1,0 +1,35 @@
+Implementing ranged combat in a grid based game
+
+ - find a long range threat
+ - lock onto them
+ - shoot at them (difficulty increases based on distance)
+ - target sees arrows/missiles/darts and direction they are from
+ 
+Game AI divides mobs into Fight or Flee or Hide
+
+Melee should happen in same room, ranged would be hard when melee is initiated.
+
+Wounds create afflictions
+Afflictions can incapacite or kill
+Ranged combat does less damage compared to melee
+
+
+Creating defensive tactics that control territory
+
+A character could take a position in certain rooms where they control access
+ - "block south" would prohibit access to the south
+ 
+Rooms would have to be defenses identified. Grid rooms would normally be free movement.
+
+Shields would play a larger role for defenders.
+- Less opportunity for attack
+- As a character's health declines, they can be replaced, then retreat to a safe room for healing, eventually returning
+- Ranged combat can then take place behind each line
+
+General game mechanics for combat should set up the idea of area control for group play. 
+"Threat" is replaced by defensive positioning backed up by ranged firepower or skirmishing ahead of the battle line.
+
+----
+Groups in melee should get offensive or defensive bonuses if they outnumber opponents.
+Some opponents could be so big (trolls, etc) that they are assigned a group size (3, 4, 5)
+Since they are single targets, they can easily become focused by multiple attackers.
