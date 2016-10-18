@@ -1,0 +1,14 @@
+Other AI considerations/tactics
+-----
+
+Mobs assigned as defender can be taunted off of a defensive position, which allows for 
+the passage of characters beyond a specific choke point.
+Taunting should involve some level of combative involvement or crowd control application.
+
+----
+Example: 
+  An archer sets up a trap in a different room, then starts shooting arrows at a wolf that
+  is guarding a lair. 
+  The wolf gets hit by a couple arrows. Since it is a fight animal, it moves to the archer's
+  room to attack, where it gets stuck in the trap.
+  The archer moves around the wolf to the lair.
